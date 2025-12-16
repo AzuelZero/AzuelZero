@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Azuel! 🫡
 
-<!--
-**AzuelZero/AzuelZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Backend Developer** specialized in Java, Spring Boot, Python and relational databases.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend:**
+- Java (Spring Boot, Hibernate/JPA, JDBC)
+- Python (Django, Django REST Framework)
+- SQL (MySQL, PostgreSQL)
+
+**Frontend:**
+- Flutter (cross-platform)
+
+**Tools:**
+- Docker, Git
+- Pandas (data analysis)
+- Figma
+
+**Familiar with:**
+- MongoDB, JavaScript, TypeScript
+
+## 🚀 Featured Project
+
+### [Byeolpedia](https://github.com/AzuelZero/Byeolpedia)
+Full-stack application for managing kpop merchandise collections.
+
+- **Backend:** Django REST Framework with JWT authentication and custom permissions system
+- **Frontend:** Flutter (web/Android)
+- **Database:** PostgreSQL with complex relational models
+- **Coming soon:** TensorFlow Lite integration for automatic image recognition using ML
+
+
+## 📫 Contact
+
+- **LinkedIn:** [linkedin.com/in/azuel](https://www.linkedin.com/in/azuel/)
+
+---
+
+🐾 Continuously expanding my skills across the full development stack and exploring new technologies to build better software solutions.
