@@ -1,6 +1,6 @@
 # Hi, I'm Azuel! 🫡
 
-**Junior Backend Developer** specialized in Java, Spring Boot, Python and relational databases.
+**Backend Developer** specialized in Java, Spring Boot, Python and relational databases.
 
 ## 🔧 Tech Stack
 
