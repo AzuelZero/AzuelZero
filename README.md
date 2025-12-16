@@ -37,4 +37,4 @@ Full-stack application for managing kpop merchandise collections.
 
 ---
 
-🐾 Continuously expanding my skills across the full development stack and exploring new technologies to build better software solutions.
+✨ Continuously expanding my skills across the full development stack and exploring new technologies to build better software solutions.
