@@ -6,7 +6,7 @@
 - 🛠️ Daily stack: **TypeScript · NestJS · PostgreSQL · Redis · Docker · GitHub Actions**
 - 🌱 Currently learning **Go** — building [Miyano](https://github.com/AzuelZero/Miyano), an offline-first workout app, from scratch
 - 🔐 I care a lot about **applied security**: I've handled real secret-rotation incident response, SAST/SCA pipelines, and GDPR workflows
-- 📫 [LinkedIn](https://www.linkedin.com/in/azuel) ·
+- 📫 [LinkedIn](https://www.linkedin.com/in/azuel)
 
 ---
 
